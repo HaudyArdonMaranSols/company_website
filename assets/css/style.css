@@ -1,0 +1,23 @@
+/* Adjust icon size */
+.icon-size {
+  font-size: 2rem;
+}
+
+/* Contact info styling */
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.contact-info li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-info i {
+  margin-right: 10px;
+  font-size: 1.5rem;
+  color: #333;
+}
